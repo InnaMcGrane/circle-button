@@ -1,0 +1,16 @@
+.btn {
+		cursor: pointer;
+		border: none;
+}
+
+.btn--circle {
+    background-color: #21183c;
+    color: white;
+    border-radius: 50%;
+    padding: 15px;
+    font-size: 20px;
+}
+
+.btn--active {
+    background-color: rgb(8, 153, 8);
+}
